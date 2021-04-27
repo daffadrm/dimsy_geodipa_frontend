@@ -1,0 +1,14 @@
+
+.filter-tabel{
+    width: 140px;
+    height: 24px;
+    color: #6c757d;
+    cursor: pointer;
+    background-color: #fff;
+    border-color: #dee2e6;
+    font-size: 12px;
+}
+.button-filter-submit{
+    height: 23px;
+    padding: 0px 6px;
+}
